@@ -1,3 +1,4 @@
 eclipse.preferences.version=1
+lastWarOutDir=/Users/olli/Develop/xtend-gwt-canvas/GwtCanvasDemo/war
 warSrcDir=war
-warSrcDirIsOutput=true
+warSrcDirIsOutput=false
